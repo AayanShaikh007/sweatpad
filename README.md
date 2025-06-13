@@ -4,8 +4,8 @@ I always found most gaming keyboards to be difficult to use and somewhat non erg
 ## Complete Assembly (without keys):
 Some images of what the finished product should approximately look like. 
 
-![Screenshot 2025-06-07 163622](https://github.com/user-attachments/assets/8be619e6-52e9-4de0-af66-681052f2a535)
-![image](https://github.com/user-attachments/assets/54c41ae5-88ce-4b8d-b58d-8276979da1e4)
+![image](https://github.com/user-attachments/assets/b569f2e8-b41c-462b-b3ff-f4175c58dea4)
+![image](https://github.com/user-attachments/assets/bf42f908-da06-420a-bd47-cd44353de297)
 
 ## PCB and Schematic
 

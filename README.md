@@ -28,3 +28,9 @@ Some images of what the finished product should approximately look like.
 
 ## Notes
 Although this project should have been really simple, i overcomplicated it by adding a bunch of switches because of my original idea for the project, but at least now it would be easier for me to design my full/60% keyboard. The PCB was larger than the 100x100 mm restriction, so i had to shorten it, leading to some unsightly changes in the case- but they shouldn't have any effect on the functionality. 
+
+# Finished Product
+
+![IMG_20250721_145836223](https://github.com/user-attachments/assets/042a32fd-e7ab-4823-bf12-49f678162786)
+
+# Youtube Demo Link

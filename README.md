@@ -1,4 +1,6 @@
 # Sweatpad- the hackpad for sweats
+**Scroll down to see the finished product!**
+
 I always found most gaming keyboards to be difficult to use and somewhat non ergonomic. This prompted me to create the sweatpad, a shortened keyboard with only the keys that you may need to play most fps games. It also features RGB lighting, a OLED display to show data/modes.
 
 ## Complete Assembly (without keys):

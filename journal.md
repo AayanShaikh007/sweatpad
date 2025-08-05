@@ -17,6 +17,10 @@ Today I started the build process by soldering the diodes in. Since the hackpad 
 
 # July 9th and 10th
 Today the hackpad parts arrived. I made it my goal to finish the project before I left for undercity on the 11th. I soldered the remaining parts such as the keyswitches in and started uploading the firmware to the board. After troubleshooting with the hardware for a little bit, I found that some of the keyswitch designations in KMK were off causing the keys to be all over the place. After fixing this issue, the hackpad pcb was completed and all that was left was the case. 
+![1000003595](https://github.com/user-attachments/assets/cdba968d-6791-41f7-971d-ed00d049ae14)
+
 
 # July 20th
 Before I left for undercity I started printing the bottom case for the hackpad. Now back from undercity, I tried to print my top plate but I encountered a problem- I had mistakenly soldered the switches in first causing the top plate to not fit. I had to spend a few hours editing the top plate to enlarge the square holes for the keyswitches so that it would fit over the keyswitches. With that done, I assembled the case, completing the project.
+
+![1000003594](https://github.com/user-attachments/assets/96f936e5-060c-4b8c-af1f-29c0b034da38)
